@@ -1,0 +1,5 @@
+This project is some python scripts to auto login wifi.
+The test is used to login the library wifi of UESTC.
+and the target of this project is scanf the wifi automaicly and try to crack thepassword&username,then connect the wifi.
+
+It is start with 2015.12.
